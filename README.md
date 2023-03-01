@@ -14,9 +14,12 @@
 - Class-6
   - [6-md](Class-6/06-02.md)
   - [6-pdf](Class-6/06-02.pdf)
-
-<!--TODO: Class 7-->
-
+- Class-7
+  - [7-md](Class-7/09-02.md)
+  - [7-pdf](Class-7/09-02.pdf)
 - Class-8
   - [8-md](Class-8/13-02.md)
   - [8-pdf](Class-8/13-02.pdf)
+- Class-9
+  - [9-md](Class-9/16-02.md)
+  - [9-pdf](Class-9/16-02.pdf)
