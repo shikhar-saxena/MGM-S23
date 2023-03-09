@@ -23,3 +23,15 @@
 - Class-9
   - [9-md](Class-9/16-02.md)
   - [9-pdf](Class-9/16-02.pdf)
+- Class-10
+  - [10-md](Class-10/20-02.md)
+  - [10-pdf](Class-10/20-02.pdf)
+- Class-11
+  - [11-md](Class-11/23-02.md)
+  - [11-pdf](Class-11/23-02.pdf)
+- Class-12
+  - [12-md](Class-12/06-03.md)
+  - [12-pdf](Class-12/06-03.pdf)
+- Class-13
+  - [13-md](Class-13/09-03.md)
+  - [13-pdf](Class-13/09-03.pdf)
